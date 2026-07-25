@@ -243,8 +243,8 @@ npm run preview
 ```
 
 ## Author
-**Harish V**
-**Ameena Jabeen M**
+1.**Harish V** ,
+2.**Ameena Jabeen M**
 
 B.E CSE(CYBER SECURITY) , B.Tech Information Technology   
 R.M.K College of Engineering and Technology , R.M.D Engineering College
