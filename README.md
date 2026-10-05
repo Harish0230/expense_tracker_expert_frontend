@@ -244,10 +244,9 @@ npm run preview
 
 ## Author
 1.**Harish V** ,
-2.**Ameena Jabeen M**
 
-B.E CSE(CYBER SECURITY) , B.Tech Information Technology   
-R.M.K College of Engineering and Technology , R.M.D Engineering College
+B.E CSE(CYBER SECURITY)  
+R.M.K College of Engineering and Technology
 
 ### GitHub
 
